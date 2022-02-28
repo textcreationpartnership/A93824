@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the Irish affairs, for the honourable members of the Houses of Parliament; as they lye represented before them, from the Committee of Adventurers in London for Lands in Ireland, sitting at Grocers-Hall for that service.</title>
+            <author>Committee of Adventurers in London for Lands in Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93824</idno>
+            <idno type="STC">Wing S5318</idno>
+            <idno type="STC">Thomason E314_7</idno>
+            <idno type="STC">ESTC R200489</idno>
+            <idno type="EEBO-CITATION">99861221</idno>
+            <idno type="PROQUEST">99861221</idno>
+            <idno type="VID">113350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113350)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E314[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the Irish affairs, for the honourable members of the Houses of Parliament; as they lye represented before them, from the Committee of Adventurers in London for Lands in Ireland, sitting at Grocers-Hall for that service.</title>
+                  <author>Committee of Adventurers in London for Lands in Ireland.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Miller dwelling in the Black-Friers.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 2d [1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113350:1" rendition="simple:additions"/>
+            <p>THE STATE OF THE IRISH AFFAIRS, FOR THE Honourable Members OF THE HOUSES of PARLIAMENT; As they lye repreſented before them, from the Committee of Adventurers in <hi>London</hi> for Lands in <hi>Ireland,</hi> ſitting at Grocers-Hall for that Service.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Miller</hi> dwelling in the Black-Friers. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113350:2"/>
+            <pb n="1" facs="tcp:113350:2"/>
+            <head>Reaſons delivered by the Committee of Ci<g ref="char:EOLhyphen"/>tizens, Adventurers in <hi>London</hi> for Lands in <hi>Ireland,</hi> to the Committee appointed by the Right Honourable the Lord Major, Aldermen and Common Councell of the ſaid City, to be delivered to the ſaid Court, of their refuſall to lend Monies upon ſecurity of the Ordinance of the 15<hi rend="sup">th</hi> of <hi>Auguſt</hi> laſt, made for raiſing Mo<g ref="char:EOLhyphen"/>nies for <hi>Ireland,</hi> to begin in <hi>November</hi> next, and to continue for ſix Moneths.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Adventurers, with their Monies raiſed upon their firſt Pro<g ref="char:EOLhyphen"/>poſitions, were to have carried over a Brigade of 500 Horſe, and 5000 Foot, into <hi>Munſter</hi> in <hi>Ireland,</hi> againſt thoſe Re<g ref="char:EOLhyphen"/>bels; which buſineſſe they were to have carried on by Officers choſen by themſelves, whereby they had the overſight of that buſineſſe, and laying out of their own Money, for the beſt advantage of the Service.</p>
+            <p>When they had well nigh raiſed and armed all their Forces, and made all other Proviſions fit for tranſportation, both their Money, and Men, and Pro<g ref="char:EOLhyphen"/>viſions, were (upon an unavoidable occaſion) made uſe of by the State here, upon a ſuddain and unexpected breaking forth of the diſtractions here at home, and the remain of what was not thus imployed, or that hath come into their Treaſuries ſince, have likewiſe been made uſe of by the State here, wherewith to content the <hi>Iriſh</hi> Officers, who have done very little or no ſer<g ref="char:EOLhyphen"/>vice for all the Money that they had ſince.</p>
+            <p>Theſe diſtractions increaſing, and thereupon when thoſe Lords and Com<g ref="char:EOLhyphen"/>mons that were appointed by Commiſſion, under the great Seal of <hi>England,</hi> by direction both of King and Parliament, to manage the <hi>Iriſh</hi> affairs, had withdrawn themſelves from further medling in the buſineſſe; and when after that, a Committe of the Honourable Houſe of Commons, made by order of the third of <hi>September,</hi> 1642. for ordering of the <hi>Iriſh</hi> affairs, had acted therein ſo long, as that they had left no Caſh in any <hi>Iriſh</hi> Treaſury to anſwer their Orders; and that a generall clamour of the <hi>Iriſh</hi> Souldiary was now upon them for pay and ſupplies, which they could not remedy; and a hard matter it was, by reaſon of the uſe of Monies here, to finde out a means to give
+<pb n="2" facs="tcp:113350:3"/> them ſatisfaction; when <hi>Briſtol, Cheſter,</hi> and moſt of th' other parts of the Weſt, were poſſeſſed by the Enemy, whereby all conveniencies for ſending for <hi>Ireland</hi> were taken away, then the Adventurers in <hi>London,</hi> made more Propoſitions to raiſe more Money from among themſelves, without Tax or Aſſeſſement of the Subject, to carry on that Warre.</p>
+            <p>That thereupon an Ordinance was made, eſtabliſhing thoſe new Propoſi<g ref="char:EOLhyphen"/>tions, and to ſecure all ſuch as ſhould adventure any Money thereupon, and erecting and ſetling of a new Committee, conſiſting of ſome of the Members of the Honourable Houſe of Commons, and of diverſe Aldermen and Mer<g ref="char:EOLhyphen"/>chants of <hi>London,</hi> Adventurers for Lands in <hi>Ireland,</hi> choſen out by the Body of Adventurers to manage the <hi>Iriſh</hi> affairs.</p>
+            <p>And they were no ſooner made a Committee, but the Citizens of the Committee, are perſwaded to advance 10000<hi rend="sup">lb</hi> or thereabouts worth of Arms, Ammunition and victuals, wherewith to furniſh 500 Horſe, and 5000 Foot, of the <hi>Britiſh</hi> Regiments in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> upon promiſe, that they ſhould, being thus furniſhed, march out of that Province againſt the Rebels, into other parts of the Kingdom, having no enemy near themſelves; which Goods were preſently provided and delivered accordingly, yet they never did ſervice therewith, nor at any time ſince, that the Committee can underſtand.</p>
+            <p>That by the labour and induſtry of the Citizens of that Committee, they have procured 30000<hi rend="sup">lb</hi> worth of Proviſions more to be ſent to the Forces there, out of <hi>Holland</hi> and the <hi>Low Countries,</hi> which if they had not recei<g ref="char:EOLhyphen"/>ved, they had disbanded and quit the Countrey to the Enemy, or muſt have complied in the Ceſſation with the Rebels, (which had been as bad) as ſome of the O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficers confeſſed.</p>
+            <p>The ſaid Committee of the Citizens alſo, in this time have ſent 5000<hi rend="sup">lb</hi> worth more of Proviſions thither, which were bought with the Adventurers Money.</p>
+            <p>Yet they are now left in debt 5000<hi rend="sup">lb</hi> or thereabout, for part of thoſe Proviſions thus advanced, and without means to give thoſe ſatisfaction to whom they ſtand engaged; Which have been thus occaſioned.</p>
+            <p>For that it hath been publikely delivered to the Adventurers, at a generall meeting of them, as if the Parliament intend not to performe in that Or<g ref="char:EOLhyphen"/>dinance with thoſe that have or ſhould bring in Money for an Adventure up<g ref="char:EOLhyphen"/>on it; ſince which time, very little or nothing hath been brought into their Treaſury; and thoſe that had ſubſcribed upon that Ordinance, do refuſe to bring in their Subſcriptions.</p>
+            <p>That the <hi>Iriſh</hi> affairs have been ſince carried on, for a good time together, by the Committe of the Honourable Houſe of Commons, of the third of
+<pb n="3" facs="tcp:113350:3"/> 
+               <hi>September,</hi> 1642. and afterwards by the Honourable Committee of both Kingdoms, and now by the Honourable Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for Propoſitions for <hi>Ireland,</hi> which have cooled and withdrawn the zeal and affections of the Adventurers and others, to bring in any more Mo<g ref="char:EOLhyphen"/>ney upon the ſaid Ordinance of the 14<hi rend="sup">th</hi> of <hi>July,</hi> 1643. ſeeing their Com<g ref="char:EOLhyphen"/>mittee ſet aſide, and to have no overſight or looking unto the managing of that buſineſſe, and the diſpoſall of their Monies; (that great ſumme of 300000<hi rend="sup">lb</hi> or thereabouts,) which they have formerly brought in, having been imployed as aforeſaid, without adding to them the leaſt hope to poſſeſſe their Adventures.</p>
+            <p>They have been imployed ſince, as a Subcommittee to the Honourable Committee of both Kingdoms; in which ſervice they have faithfully per<g ref="char:EOLhyphen"/>formed their truſt, and have informed their Lordſhips of all thoſe miſcar<g ref="char:EOLhyphen"/>riages and failings of the Officers in the Armies in <hi>Ireland,</hi> then under the Parliaments power, and otherwiſe concerning thoſe affairs; and how the States Treaſure have been waſted and conſumed, and nothing done for it; with their opinions of the remedies to prevent the like miſdoings for the time to come, which they having done in the birth of their imployments under their Lordſhips, have not lately received more of their commands, (ex<g ref="char:EOLhyphen"/>cept in raiſing of Monies for the Service) to which they have alwayes con<g ref="char:EOLhyphen"/>tributed to their powers, when they have found certain wayes of reim<g ref="char:EOLhyphen"/>burſement.</p>
+            <p>In this time they have offered their endeavours freely, in making provi<g ref="char:EOLhyphen"/>ſions for thoſe Forces, out of the Monies raiſed and to be raiſed upon that Or<g ref="char:EOLhyphen"/>dinance of the 16<hi rend="sup">th</hi> of <hi>October,</hi> 1644. if to have been imployed in a Com<g ref="char:EOLhyphen"/>mittee way upon accompt; but the Officers of the Army in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and one M<hi rend="sup">r</hi> 
+               <hi>Davis</hi> an <hi>Iriſh</hi> man, and ſome Cheeſemongers of this City, joyning with them under hand, obtained the imployments, upon Contracts and bargains made, to deliver thoſe Proviſions at certain rates; when the Committee, if to have done the ſame in a Committee way, would have advanced the ſame much ſooner, and have ſaved the State 12000<hi rend="sup">lb</hi>, or 15000<hi rend="sup">lb</hi>, in 60000<hi rend="sup">lb</hi> of the prices allowed <hi>Davis;</hi> and though they alwayes declined to do any thing in a way of bargaining, yet when it was preſſed of neceſſity to be done no other way, they offered the State to do it by computation, 7000<hi rend="sup">lb</hi> or thereabouts, in the ſaid 60000<hi rend="sup">lb</hi>, under thoſe rates that <hi>Davis</hi> offered; which not being ſo apprehended, he hath been the Man hath carried on all that bu<g ref="char:EOLhyphen"/>ſineſſe before him ever ſince; but by his leave hath failed in all his underta<g ref="char:EOLhyphen"/>kings, both for time, manner and matter; for albeit his agreement was, for to have delivered the Goods by 10000<hi rend="sup">lb</hi> the firſt week, and 5000<hi rend="sup">lb</hi> worth
+<pb n="4" facs="tcp:113350:4"/> of Goods every week after, till the whole had been delivered, yet it was four or five moneths time before he delivered any parcell, and but very lately that he delivered the laſt; and hath vented ſuch baſe and unſerviceable Commo<g ref="char:EOLhyphen"/>dities, as they were little worth: beſides that, he and his partners did runne no hazard in it at all, for he only aſſigned the Monies to come in, in ſeverall Counties to his reſpective Chapmen, for payment at long dayes, who took the ſame for ſatisfaction upon their own Adventures, and reſerved a good ſhare and benefit to himſelf; and then no doubt but they would alſo be Gain<g ref="char:EOLhyphen"/>ers by the hand, thus to truſt; which muſt bring poor Commodities to the Market of neceſſity, or make his Cuſtomers but Savers by the hand; and this beginning hath brought him to be the generall undertaker and provider for whatſoever Goods have gone for the Forces of <hi>Ireland</hi> ſince; but in this latter bargains, he hath dealt much more ſecurely for himſelf, having ſtill fingered ſo much Money in hand, upon the matter, as he hath acquired the Goods with<g ref="char:EOLhyphen"/>all, that if he ſhould never get in the reſt, he can be no Loſer by the hand, and an extream Gainer if to receive all, and hath made proviſion to be ſatisfied ſome other way, if he get it not by this way; beſides that, he hath taken ſuch wayes for the delivery of the Commodities, and made ſuch proviſions for the Collections of the Monies, that he will be ſure either to have it in before he ſhall lay it out, with a 1000<hi rend="sup">lb</hi>, and 6<hi rend="sup">d</hi> in the pound too for his pains in the collecting it, or if he fails, another Countrey is as good to him as this: beſides that, he hath hemmed in to be paid out of theſe Aſſeſſements for <hi>Ireland,</hi> an old pretended Debt of 12195<hi rend="sup">lb</hi>, which is upon matter of Accompt, depend<g ref="char:EOLhyphen"/>ing before the Committee of Accompts for the Kingdoms, not yet by them allowed, and which if it ſhall be ſatisfied him, is a fortune that he hath raiſed in little more then Nine moneths time, by the States imployments in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> there truſting him with 4000<hi rend="sup">lb</hi> ready Money to buy the Souldiers Vi<g ref="char:EOLhyphen"/>ctuals, having no ability of his own before that time, wherewith to carry on ſuch an Imployment; and the beſt of his Vouchers will prove Certificates in groſſe from the ſaid Colonels and Officers of that Army, for which no doubt but the common Souldiers have either made many hungry meals, or abated it out of their Commanders rents, they being moſt their Tennants; and there<g ref="char:EOLhyphen"/>fore unwilling to go further abroad to do ſervice, then they can bewray the ſmoak of their own chimnies; and yet ſuch a Stranger as this <hi>Davis,</hi> is able thus in leſſe then a years time, to furniſh 160000<hi rend="sup">lb</hi> worth of Commodities for <hi>Ireland,</hi> before the Committee of Adventurers, conſiſting of One and thirty Aldermen and good Merchants of this City, who deſire to have no ſuch gain from the Common wealth in ſuch diſtracted and neceſſitous times as theſe.</p>
+            <pb n="5" facs="tcp:113350:4"/>
+            <p>The Committee of Adventurers at Grocers-Hall (out of their zeal for the Publike, and care for the preſervation of that Kingdom, being ſo neerly con<g ref="char:EOLhyphen"/>cerned with this, as that the wellfare of either is wrapt up together in the ſa<g ref="char:EOLhyphen"/>fety and preſervation of them both, more then for any benefit they expect by their Adventures) the 27<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1644. did preſent ſeverall Propoſitions to the Honourable Houſe of Commons, for raiſing Monies principally from among themſelves, wherewith to maintain thoſe Forces againſt the Ceſſa<g ref="char:EOLhyphen"/>tion and the Rebels, and the ſame day a draught of that Ordinance (paſſed the 16<hi rend="sup">th</hi> of <hi>October,</hi> 1644. was alſo preſented to the Honourable Houſe of Commons, by the Committee of that Honourable Houſe, ſitting by Order of the 3<hi rend="sup">d</hi> of <hi>September,</hi> 1642. aforeſaid, and both were Committed together: but the Committee of Grocers-Hall as yet, (by reaſon of the more weighty affairs of the Kingdom,) have received no anſwer concerning them; they have alſo diverſe times ſince renewed their humble deſires therein, by ſeverall Petitions and Remonſtrances, preſented both to the Honourable Houſes, and the Honourable Committee of both Kingdoms, for their mediation that ſome<g ref="char:EOLhyphen"/>thing might be done therein, but other the great affairs of the State, hath ſtill prevented the conſideration thereof: they have lately alſo addreſſed them<g ref="char:EOLhyphen"/>ſelves therein to the Honourable Committee of Lords and Commons, ap<g ref="char:EOLhyphen"/>pointed for receiving of Propoſitions for <hi>Ireland,</hi> with whom they debated the ſame, and after conſultation thereof amongſt themſelves, of the reſults of both Committees, their Lordſhips tranſmitted back again unto them the heads of ſuch of their Propoſitions, as they thought fit for the Conſidera<g ref="char:EOLhyphen"/>tion of the Houſes, deſiring that the body of Adventurers might be called together, to adviſe with the Committee thereupon, and to certifie them what Moneys they would advance, and what other encouragements they would give, to move the Houſes to incline to paſſe them: and thereupon the Adventurers did meet accordingly, and upon debate thereof amongſt them<g ref="char:EOLhyphen"/>ſelves, did returne the ſame back again to the ſaid Honourable Committee of Lords and Commons for Propoſitions for <hi>Ireland,</hi> with ſome ſmall altera<g ref="char:EOLhyphen"/>tions; and withall did returne unto their Lordſhips the humble Petition of the Committee and Body of the moſt principall Adventurers of the City, ſigned with many of their hands; offering upon the credit of ſuch an Ordi<g ref="char:EOLhyphen"/>nance to paſſe preſently, to have advanced 20000<hi rend="sup">lb</hi> in Money, and ſuch Pro<g ref="char:EOLhyphen"/>viſions as ſhould be ordered to be ſent for relief of thoſe Forces, and that they did not doubt but thereby to make all further ſupplies for carrying on that Warre in <hi>Munster,</hi> and that thoſe Forces being well ſupplied and maintain<g ref="char:EOLhyphen"/>ed (under God) might be a great and ready means, quickly to reduce all that Kingdom under the power of the Parliament; and praying their
+<pb n="6" facs="tcp:113350:5"/> Lordſhips to recommend that their Petition, with the ſaid Propoſitions to the Honourable Houſes to be conſidered accordingly; but all this notwith<g ref="char:EOLhyphen"/>ſtanding, the Adventurers cannot underſtand that the ſame have been deli<g ref="char:EOLhyphen"/>vered to the Houſes accordingly.</p>
+            <p>But now ſince the Right Honourable the Lord Major, have heretofore been deſired to ſummon a meeting of all the Adventurers, and that it might be propounded unto them to lend 15000<hi rend="sup">lb</hi>, or more Money upon the Credit of this other Ordinance lately paſſed, for raiſing Monies for <hi>Ireland,</hi> by an<g ref="char:EOLhyphen"/>other Aſſeſſement for ſix Moneths more, to begin in <hi>November</hi> next; at which meeting ſome of that Honourable Committee were preſent, and upon debate thereof it was not thought fit to be done; and indeed both the Com<g ref="char:EOLhyphen"/>mittee and Body of Adventurers having formerly been treated with to that purpoſe, both before and ſince the paſſing of that Ordinance, did give their opinions, that if it ſhould paſſe, as things then ſtood, and yet do ſtand, it could hardly be expected that Monies would be advanced upon it, for diverſe rea<g ref="char:EOLhyphen"/>ſons then given; and ſince the paſſing it, Commiſſioners of the Citizens are named, without the privity of the Adventurers, to go for <hi>Munſter</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to act for the City there, which never had, nor hath any particular en<g ref="char:EOLhyphen"/>gagement in that part of the Kingdom, the Adventurers hoping they ſhall have their own Choice, of ſuch as they ſhall employ there, concerning their Adventures.</p>
+            <p>And the Reaſons that moved the Committee of Grocers-Hall heretofore, and yet doth, to refuſe the lending of any Money, upon this Ordinance of the 15<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1645. were, and are theſe following. <hi>viz.</hi>
+            </p>
+            <p>Firſt, The ſaid Ordinance doth revive a former Ordinance of the 18<hi rend="sup">th</hi> of <hi>October,</hi> 1644. and the Committee have never yet ſeen or underſtood of any ſuch Ordinance made, but of an Ordinance made the 16<hi rend="sup">th</hi> of <hi>October,</hi> 1644. to which this Ordinance hath no relation; and if there be no ſuch Ordinance of the 18<hi rend="sup">th</hi> of <hi>October,</hi> 1644. then this Ordinance of the 15<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1645. hath loſt its effect, and cannot revive that which never had a being.</p>
+            <p>Secondly, To revive an Ordinance to have continuance for a longer time, after its expiration, without more words to expreſſe the intent and power thereof, to make new Levies, <hi>&amp;c.</hi> may admit of a diſpute, what is meant by this word (Reviving) ſtanding thus alone, and may well be conſtrued only to intend the Levying of ſuch Monies thereupon, as have not been colle<g ref="char:EOLhyphen"/>cted within the time of its being and continuance, and in ſuch a Caſe is no foundation of Credit, to engage for borrowing of Money.</p>
+            <p>Thirdly, Admitting theſe exceptions were out of doors, (yet then there is a proviſo, that all Arrearages which ſhall be due and unlevied for the
+<pb n="7" facs="tcp:113350:5"/> Weekly aſſeſſements upon the ſaid Ordinance of the 18<hi rend="sup">th</hi> of <hi>October,</hi> 1644. (if any ſuch be) for the time of Continuance firſt limited therein, the ſame ſhall be leavied, brought in and paid to the Treaſurers according to the Ordi<g ref="char:EOLhyphen"/>nance, and that the ſame ſhall be diſpoſed and iſſued out for the diſcharge of the Orders and Contracts made with the Houſes of Parliament, or the Committee of the two Kingdoms, in purſuance of the ſaid Ordinance; which ſhews, that the word, Reviving, in the Ordinance of the 15<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1645. is meant of Leavying what is behinde and unpaid of that Ordinance at the time of its expiration, and mentions nothing of any new Leavy or Aſſeſſement to be made, and ſo is conceived no ſuch ſecurity to borrow Money upon as is propounded.</p>
+            <p>Fourthly, The Ordinance of the 16<hi rend="sup">th</hi> of <hi>October,</hi> 1644. made for an Aſ<g ref="char:EOLhyphen"/>ſeſſement thorow the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> for the preſent Relief of the <hi>Britiſh</hi> Armies in <hi>Ireland,</hi> ſhould raiſe above 200000<hi rend="sup">lb</hi> in all places; and that there is 80000<hi rend="sup">lb</hi> charged upon it, firſt for relieving the <hi>Brittiſh</hi> Regiments in <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> and M<hi rend="sup">r</hi> 
+               <hi>John Davis</hi> hath ob<g ref="char:EOLhyphen"/>tained another reviving Ordinance of it, of the 27<hi rend="sup">th</hi> of <hi>September,</hi> 1645. to ſatisfie him the ſumme of 36945<hi rend="sup">lb</hi> more, ſo it is charged with 116945<hi rend="sup">lb</hi> in all; of this, 50000<hi rend="sup">lb</hi> is only yet come into the Treaſury, that there is 66945<hi rend="sup">lb</hi> yet to be leavied, and this muſt be leavied the firſt; and who will lend Money, to expect it after the leavying and payment of ſuch a Summe, and to put it to a hazard; whenas a man may lend out his Money, and have 8<hi rend="sup">lb</hi> 
+               <hi>per cent.</hi> for it, to be repaid in his own time, and to have as good ſecurity as the Kingdom can afford?</p>
+            <p>Fifthly, If only 50000<hi rend="sup">lb</hi> of 200000<hi rend="sup">lb</hi> have been brought in, in a years time, and at the firſt beginning, when men were better able and diſpoſed to the worke, and this done by the earneſt and continuall ſollicitation of M<hi rend="sup">r</hi> 
+               <hi>Da<g ref="char:EOLhyphen"/>vis,</hi> and of his Emiſſaries and Creditours that are ſo concerned in it, and have acted it to the life; what can be conceived muſt follow of theſe Aſſeſſe<g ref="char:EOLhyphen"/>ments in the later end of the day, when men are more and more exhauſted in their eſtates, and who now do fall ſhort to ſatisfie thoſe Aſſeſſements (in as great a proportion) of maintenance of Generall <hi>Fairfax</hi> Army, and of the <hi>Scots</hi> Army in <hi>England,</hi> which are for their immediate and more neceſ<g ref="char:EOLhyphen"/>ſary preſervation, and the ſubduing of an Enemy here at home?</p>
+            <p>Sixtly, The people begin generally to underſtand the ill carriage of M<hi rend="sup">r</hi> 
+               <hi>Da<g ref="char:EOLhyphen"/>vis,</hi> and his fellow Cheeſmongers in this buſineſſe, and that they hunt af<g ref="char:EOLhyphen"/>ter theſe bargains, to raiſe themſelves fortunes this way, and care not how they deceive the Common wealth, ſo they may enrich themſelves, and put the Money into their own purſes; which not only makes the people unwil<g ref="char:EOLhyphen"/>ling,
+<pb n="8" facs="tcp:113350:6"/> but many of them wilfull to refuſe the payment of theſe Monies, which many of them do apprehend thus may be caſt away; and are not a little troubled, to ſee the Citizens of <hi>London,</hi> men of worth and integrity, un<g ref="char:EOLhyphen"/>imployed in the ſervice; and ſuch a poor fellow as <hi>Davis,</hi> and a meer ſtran<g ref="char:EOLhyphen"/>ger, vaulting himſelf herein againſt the whole City. For theſe Reaſons, the Committee of Adventurers at Grocers-Hall, as heretofore, ſo do now again deſire to be excuſed for lending of any Monies upon the Tearmes propound<g ref="char:EOLhyphen"/>ed, which they deſire may be delivered to the Right Honourable the Lord Major, Aldermen and Common-Councell, as their ſenſe and anſwer to their demands.</p>
+            <p>And now albeit they are not deſirous to draw imployment, and the bur<g ref="char:EOLhyphen"/>then of more buſineſſe upon themſelves, yet for the good and benefit of the Common-wealth, and the better ſafety and preſervation of the Kingdom of <hi>Ireland,</hi> ſo nearly concerned with this; if the Houſes of Parliament might be moved yet to conſider of their Propoſitions, and to paſſe them into an Ordinance, in ſuch way as they ſhall thinke fit, that ſo a ground and ſure foundation may be laid, not only to relieve thoſe Forces in <hi>Munster</hi> for the preſent, but to maintain and carry on that Warre there. Upon the Credit of ſuch an Ordinance, they ſhall yet be willing to advance the 20000<hi rend="sup">lb</hi> ſo formerly undertaken, and carefully to provide for continuall ſupplies to be made for the future; and will freely beſtow their greateſt care and in<g ref="char:EOLhyphen"/>duſtry, to husband things for the beſt benefit and advantage of the Ser<g ref="char:EOLhyphen"/>vice, without expectation of benefit or reward; and doubt not but in ſuch caſe (under God) to render the Parliament a good Accompt of that Pro<g ref="char:EOLhyphen"/>vince in a ſhort time; which is eſpecially conſiderable (as the State of the affairs of that Kingdom now ſtands at preſent) that it be ſecured of all the reſt, both againſt the Rebels within it ſelf, and the Enemy that may invade it ſuddainly from abroad.</p>
+            <p>They have likewiſe hereunto annexed the Copies of thoſe heads of their ſaid Propoſitions and of their Petition, the Originals remaining with the ſaid Committee of Lords and Commons, which were, as they conceive, once heretofore agreed upon by the ſaid Committe and body of Adventurers, to have been preſented to the Honourable Houſes of Parliament for their conſideration: and it is the humble ſuit of this Committee, that the Right Honourable the Lord Major, Aldermen and Common-Councell, would yet be pleaſed, if they ſhall ſo thinke fit, to interpoſe their mediation to the Ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament, that the ſame may be conſidered accordingly, and in ſuch way as they ſhall thinke fit.</p>
+            <div type="proposition">
+               <pb n="9" facs="tcp:113350:6"/>
+               <head>Die Veneris <hi>24<hi rend="sup">o</hi>
+                  </hi> Octobris, <hi>1645.</hi>
+               </head>
+               <p>
+                  <hi>At the Committee of Adventurers in</hi> London <hi>for Lands in</hi> Ireland, <hi>ſitting at Grocers-Hall.</hi>
+               </p>
+               <p>Reſolved upon the Queſtion <hi>(nemine contradicente)</hi>
+               </p>
+               <p>That the Reaſons aforeſaid, this day ſeverall times read and debated, why this Committee cannot lend any Money upon the Ordinance for the continuation of the Weekly Aſſeſſement for <hi>Ireland,</hi> be preſented to morrow morning to the Committee of Common-Councell (appointed to treat with this Committee about the raiſing of Monies for <hi>Ireland</hi>) to be by them preſented to the Right Honourable the Lord Major, Aldermen and Common-Councell of this City of <hi>London</hi> at their next meeting.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed by Order and Command of the ſaid Committee, by</hi> Rich. Deacon <hi>Clerk to the ſaid Committee.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <head>Die Mercurij, <hi>23<hi rend="sup">o</hi>
+                  </hi> Julij, <hi>1645.</hi>
+               </head>
+               <p>ITt is now thought fit and reſolved by this Committee, That the Earl of <hi>Kent,</hi> the Lord <hi>Howard</hi> of <hi>Eskrigg,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Jephſon,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Knightley,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Rigby,</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Liſle,</hi> or any two of them, be deſired to take into their conſideration, and to treat and debate concerning the draught of the Ordinance preſented to the Houſe of Commons, from the Committee at Grocers-Hall for the af<g ref="char:EOLhyphen"/>fairs of <hi>Ireland;</hi> And the ſaid Committee at Grocers-Hall, are deſired to take notice hereof, and to appoint a competent Number of them to be preſent at ſuch treaty and debate, on Friday next, at three of the clock in the after-noon, in the Chambers called the Queens Court in <hi>Weſtminſter.</hi>
+               </p>
+               <closer>
+                  <signed>William Jephſon.</signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <head>Die Jovis <hi>24<hi rend="sup">o</hi>
+                  </hi> Julij, <hi>1645.</hi>
+               </head>
+               <p>
+                  <hi>At the Committee of Adventurers in</hi> London <hi>for Lands in</hi> Ireland.</p>
+               <p>IT is ordered, That Alderman <hi>Warner,</hi> Alderman <hi>Kendricke,</hi> Alderman <hi>Avery, Jerom Alexander,</hi> Major <hi>Thomas Chamberlen, Michael Her<g ref="char:EOLhyphen"/>ring, John Dethicke, George Thomaſon,</hi> and <hi>Samuel Langham,</hi> Members of the Committee, be intreated to meet at the Still-yard, to morrow, being
+<pb n="10" facs="tcp:113350:7"/> Friday the <hi>25<hi rend="sup">th</hi>
+                  </hi> of this instant <hi>July,</hi> by Eleven of the Clock in the fore-noon, to go then preſently unto <hi>Weſtminſter,</hi> to attend the Committee of Lords and Commons, appointed for receiving of Propoſitions for the affairs of <hi>Ireland,</hi> according to their deſires, expreſſed by their Order of the <hi>23<hi rend="sup">th</hi>
+                  </hi> of <hi>July</hi> inſtant; to conſider, treat and debate together, concerning the draught of an Ordinance preſented by the Committee to the Honourable Houſe of Commons, of certain wayes and means propoſed for the relief of <hi>Ireland,</hi> and especially for the Province of <hi>Munſter;</hi> And the ſaid Members of the Com<g ref="char:EOLhyphen"/>mittee, are earneſtly d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſired, that they would not fail herein at this time, foraſmuch as it is hoped this meeting may prepare ſome good means for relief of that Kingdom.</p>
+               <closer>
+                  <signed>
+                     <hi>Rich. Deacon,</hi> Clerk to the ſaid Committee.</signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <head>Die Sabbati, <hi>26<hi rend="sup">o</hi>
+                  </hi> Julij, <hi>1645.</hi>
+               </head>
+               <p>IT is now Ordered by the Committee, that S<hi rend="sup">r</hi> 
+                  <hi>William Brereton,</hi> and Colonel <hi>Jephſon,</hi> be deſired to communicate to the Committee of <hi>Iriſh</hi> Adventu<g ref="char:EOLhyphen"/>rers at Grocers-Hall, the paper of Propoſitions concerning <hi>Ireland</hi> now agreed on, as fit to be preſented to the Houſes of Parliament; and thereupon to deſire them to ſummon the Body of Adventurers together, and to take their reſolution, what inducements and motives ſhall be on their parts offered to the Parliament, to incline them to grant the ſame, either by way of underta<g ref="char:EOLhyphen"/>king, or otherwiſe,</p>
+               <closer>
+                  <signed>William Brereton, William Jephſon.</signed>
+               </closer>
+            </div>
+            <div type="ordinance">
+               <head>The heads of an Ordinance to be prepared for the ſupply of the Forces in <hi>Munſter,</hi> with the Amendments.</head>
+               <p n="1">1. THat the Ordinance of the 14<hi rend="sup">th</hi> of <hi>July,</hi> 1643. confirmed as well for the benefit of thoſe that have already paid in, as that hereafter ſhall pay the value of a fourth part more of their Subſcriptions.</p>
+               <p>Secondly, To require the payment of ſuch Monies as have been underwrit<g ref="char:EOLhyphen"/>ten formerly, and not paid in.</p>
+               <p>Thirdly, That where the Subſcribers themſelves cannot pay in their Mo<g ref="char:EOLhyphen"/>nies ſubſcribed for a fourth more; that in every ſuch caſe, any other of the Adventurers in the firſt place may do it in his ſtead, or any other perſon in the ſecond place; and to receive ſuch benefit by the paiment of ſuch Monies, as
+<pb n="11" facs="tcp:113350:7"/> ſhould have accrewed to ſuch an Adventurer, if he had p<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it in himſelf.</p>
+               <p>Fourthly, That for the better encouragement of the Adventurers, ſo much of the City of <hi>Cork<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and Towns Corporate of <hi>Kingſale</hi> and <hi>Youghall,</hi> as belong to the Rebels, be preſently expoſed and ſet to ſale, to ſuch of the Adventurers in the firſt place, and others in the next place, as ſhall deſire to purchaſe the ſame, together with ſuch Lands as lye adjacent and contiguous to the ſaid City and Towns reſpectively; for which houſes and Lands, the purchaſers ſhall pay four years purchaſe, to be ſold and diſpoſed by Com<g ref="char:EOLhyphen"/>miſſioners indifferently to be appointed by the Parliament, whoſe rule ſhall be (in reference to the ſaid four years purchaſe) as the ſaid houſes and Lands reſpectively were worth in <hi>Anno</hi> 1640. or three years before; and that ſuch as ſhall adventure herein, ſhall not only have the ſame houſes and Lands delivered preſently to them in poſſeſſion, but ſhall have their former adventures alſo ſet out unto them in that Province of <hi>Munſter</hi> by the ſaid Commiſſioners, preſently as the Lands ſhall be conquered from the Rebels.</p>
+               <p>Fiftly, That there ſhall be proviſion to pay ſuch Debts of the ſaid Com<g ref="char:EOLhyphen"/>mittee, as they have contracted in making proviſions for the Sevice of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (not exceeding 5000<hi rend="sup">lb</hi>) the ſame to be paid out of the Monies to be advanced by this Ordinance.</p>
+               <p>Sixthly, That power be granted for the receiving of all ſuch Monies, Armes, Ammunition and Proviſions, as have been formerly raiſed by the Ad<g ref="char:EOLhyphen"/>venturers, and now lye in other mens hands unreceived and undiſpoſed of, to be imployed in that ſervice.</p>
+               <p>Seventhly, That four Ships or Friggots, not exceeding 1000 Tunne, be aſſigned to attend the Coaſts and Harbours in the Province of <hi>Munſter;</hi> and ſuch lawfull prizes and ſpoils as they ſhall take, to be diſpoſed of by ſuch Commiſſioners as the Parliament ſhall ſend, for the better ſupport of the Forces there.</p>
+               <p>Eighthly, That the Committee ſhall have power to engage the Ordi<g ref="char:EOLhyphen"/>nance for raiſing of preſent Monies, from time to time as occaſion ſhall require.</p>
+               <p>Ninethly, That the Committee and Body of Adventurers ſhall have pow<g ref="char:EOLhyphen"/>er from time to time, to alter, change or ſupply any of their Committee from amongſt themſelves, as they ſhall thinke fit.</p>
+               <p>Tenthly, That an Ordinance be paſt, for the Aſſeſſing and raiſing by a Tax throwout this Kingdom, in a proportionable rate to every Houſholders eſtate, the value of one meal every Moneth, which ſhall be ſpared upon the Faſt daies hereafter to be kept, in regard that the Monethly Faſt was firſt in<g ref="char:EOLhyphen"/>ſtituted in reſpect of the miſeries of <hi>Ireland.</hi>
+               </p>
+               <pb n="12" facs="tcp:113350:8"/>
+               <p>Eleventhly, That the Committee appointed and to be appointed, ſhall be al<g ref="char:EOLhyphen"/>wayes ready to give an accompt to the Houſes of Parliament, of their doings from time to time, when they ſhall be thereunto required.</p>
+               <p>Twelfthly, That an Ordinance may paſſe, that ſuch as are able and have plentifull eſtates, and have done nothing, or very little to aſſiſt the Parliament and Common wealth, but have obſcured themſelves from bearing the com<g ref="char:EOLhyphen"/>mon burthens of the Kingdom all this while; that power may be given to the ſaid Committee, fairly to treat with them to ſubſcribe ſomething with the willing party, and contribute herein; which if they ſhall obſtinately and wilfully refuſe to do, that in ſuch caſe they may be compelled to ſubſcribe ſome reaſonable ſumme, anſwerable to their eſtates, to help to do the worke withall, as others, and to have the ſame benefit as others.</p>
+            </div>
+            <div type="petition">
+               <head>TO THE Honourable Houſe of Commons in this preſent Parliament aſſembled, The Humble Petition of the Committee and Body of Adventurers in <hi>London</hi> for Lands in <hi>Ireland</hi> ſitting at Grocers-Hall.</head>
+               <opener>Shewing,</opener>
+               <p>THat ever ſince the Parliament, by their Ordinance of the 14<hi rend="sup">th</hi> of <hi>July,</hi> 1643. was pleaſed to make them a Committee to act in the <hi>Iriſh</hi> affairs, they have imployed the utmoſt of their endeavours to ſerve the Common-wealth in that buſineſſe, and are ready to give an Accompt of their Actions therein, which they are well aſſured, upon ex<g ref="char:EOLhyphen"/>amination, will render them free and clear from all neglect of duty and ſervice in whatſoever they have been truſted.</p>
+               <p>But it hath been their unhappineſſe in this time, for want of further power and truſt, that they have not been ſo ſerviceable as they deſired, and as other<g ref="char:EOLhyphen"/>wiſe they could have been.</p>
+               <p>And many moneths ſince, they humbly preſented to this Honourable Aſ<g ref="char:EOLhyphen"/>ſembly their Petition, together with certain Propoſitions for raiſing Monies for the better carrying on of that Warre, and whereof ſeverall times ſince th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have been, by their other Remonſtrances and ſupplications, beſought the conſideration, which by the interpoſition of more weighty affairs have till this time <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven by.</p>
+               <p>And now lately they have again addreſſed themſelves herein unto the Ho<g ref="char:EOLhyphen"/>nourable Committee of Lord and Commons, for receiving and preparing of Propoſitions for the Honourable Houſes for this Service, and who upon the
+<pb n="13" facs="tcp:113350:8"/> debate hereof have been pleaſed to approve of ſo much thereof, as your Peti<g ref="char:EOLhyphen"/>tioners do humbly conceive they have already, or do ſhortly intend to preſent to this Honourable Aſſembly to be conſidered.</p>
+               <p>Your Petitioners do apprehend the Province of <hi>Munster</hi> in that Realm, and conſequently that Kingdom, is now at preſent in great danger to be loſt, without timely ſupplies, and proviſions to be made for to maintain thoſe Forces for the future.</p>
+               <p>And they further crave leave, humbly to preſent their ſenſe and opinions of this preſent affair (alwayes with ſubmiſſion to your graver judgements) that if theſe Propoſitions ſhall be thought fit to be framed into an Ordinance, to paſſe both the Honourable Houſes of Parliament; then your Petitioners, upon the credit thereof, will advance 20000<hi rend="sup">lb</hi> in Money, and Proviſions for the Service, and in ſuch reaſonable time as the exegencie of the occaſion, and this Honourable Houſe ſhall r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quire the ſame.</p>
+               <p>And are confident from time to time, to make all ſuch further ſupplies for maintenance of the Forces there in that Province, by this means, as will not only render the ſame wholly under your power, but probably (under God) may be a great occaſion to reduce thoſe Rebels to their obedience, and ſubject all that Realm under the Parliaments command.</p>
+               <p>All the Adventurers alſo, and others with them alike concerned in that Kingdom, will thus undoubtedly be abundantly ſatisfied and encouraged, with ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfullneſſe to contribute and lay out themſelves yet more in this af<g ref="char:EOLhyphen"/>fair; and the Parliament will be freed from much trouble and care other<g ref="char:EOLhyphen"/>wiſe for to make proviſions for that ſervice for the future and time to come.</p>
+               <p>The lives of many thouſands of poor Proteſtants, our friends and brethren, will thus be there preſerved, and this Kingdom delivered from a bloud-thirſty Enemy, which otherwiſe will daily infeſt us here at home, both by ſea and land.</p>
+               <p>The honour of this Nation will be thus ſtill preſerved, in maintaining our intereſts there, which our Anceſtours heretofore have purchaſed, and for many hundreds of years maintained, with the expence of much Treaſure and bloud.</p>
+               <p>The Parliament and its party will be hereby exceedingly ſtrengthened, and their Adverſaries extreamly weakned, both in their preſent hopes, power and aſſiſtance, both there and from abroad.</p>
+               <p>The Proteſtant party thorowout Chriſtendome, will the rather alſo be en<g ref="char:EOLhyphen"/>couraged to joyn with us in this great worke of Reformation, and a fruit<g ref="char:EOLhyphen"/>full and good Land will thus again ere long be repeopled, to live under the Sunſhine of the Goſpel, where otherwiſe Popery and ſuperſtition will be planted, to the great diſhonour of Almighty God, and the great diſcomfort of the Nation to ſucceeding generations.</p>
+               <pb n="14" facs="tcp:113350:9"/>
+               <p>Your Petitioners will thus alſo ſave very much to the State, both in the prices and goodneſſes of ſuch proviſions as ſhall be neceſſarily ſent for that Service, and will do the ſame in time as readily, and much more ſatisfacto<g ref="char:EOLhyphen"/>rily to the people, then any particular men ſhall poſſibly be able to undertake and do; All which they humbly pray this Honourable Aſſembly to conſider accordingly.</p>
+               <closer>And they ſhall pray, <hi>&amp;c.</hi>
+               </closer>
+            </div>
+            <div type="proposition">
+               <head>Decemb. <hi>11. 1645.</hi> At the Committee appointed to conſider of the Reaſons for not lending Money for <hi>Ireland.</hi>
+               </head>
+               <p>ORdered that <hi>Richard Deacon</hi> Clerke to the Committee of Grocers-Hall, do bring or ſend to morrow at two of the Clock in the after<g ref="char:EOLhyphen"/>noon, to this Committee ſitting in the Queens Court, all the Books and Papers remaining in his cuſtody concerning the <hi>Iriſh</hi> affairs, ſince the 19<hi rend="sup">th</hi> of <hi>June,</hi> 1643.</p>
+               <closer>
+                  <signed>Franc. Thorpe.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Worſhipfull <hi>Fr. Thorpe,</hi> Eſquire, ſitting in the Chair of the Committee of the Honourable Houſe of Commons, appointed to con<g ref="char:EOLhyphen"/>ſider of the Reaſons for not lending Money for <hi>Ireland,</hi> theſe preſent.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VVE have ſeen your Order of the <hi>11<hi rend="sup">th</hi>
+                  </hi> of this inſtant <hi>December,</hi> requi<g ref="char:EOLhyphen"/>ring our Clerke M<hi>
+                     <hi rend="sup">r</hi> Richard Deacon,</hi> to bring or ſend all the Books and Papers remaining in his custody, concerning the Iriſh affairs, ſince the Nineteenth of <hi>June,</hi> One thouſand ſix hundred Fourty and three: And being ready to ſubmit to the Honourable Houſe of Commons in all their com<g ref="char:EOLhyphen"/>mands, it hath cauſed us to look into their Order of the Eighth of this in<g ref="char:EOLhyphen"/>ſtant, whereby you are made a Committee, and wherain we finde not any thing mentioned to that purpoſe; nor do we conceive how our Bookes and writings ſhould make any diſcoveries of thoſe matters within your dire<g ref="char:EOLhyphen"/>ction; but if we ſhall underſtand from you wherein they or we may ſerve you and the publike, we ſhall be ready to attend with whatſoever ſhall con<g ref="char:EOLhyphen"/>duce to the ſervice; praying you to be informed, that all theſe which you deſire from us, do now lye under Command of the Committee of Accompts
+<pb n="15" facs="tcp:113350:9"/> of the Kingdoms, as our vouchers, to justifie us and our Accompts, delivered in before them, for the receipts and diſburſements of ſuch Moneys, as have come into our Treaſury, and are thoſe things, by which we must anſwer our proceedings, in whatſoever we have been truſted; and therefore we hope, you will not conceive it reaſonable, that we ſhould denude our ſelves thereof, having daily uſe of them alſo, about matters and Questions in things which we have tranſacted, and do frequently uſe them at our publike meetings, and without which we cannot diſcharge our duties, nor that Service commit<g ref="char:EOLhyphen"/>ted to us.</p>
+               <p>Nor do we further apprehend our ſelves concerned in the matters of your inquirie, unleſſe you ſhall thinke fit to enjoyn us to a new debate of the Pro<g ref="char:EOLhyphen"/>poſitions before you, formerly agreed upon between the Honourable Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons for Propoſitions, and us and the Body of Ad<g ref="char:EOLhyphen"/>venturers for raiſing Monies to carry on the Warre in <hi>Munſter</hi> in <hi>Ireland;</hi> which, with ſubmiſſion to your better judgements, we humbly do conceive al<g ref="char:EOLhyphen"/>ready fully digested, and made fit for the Reſolution of the Houſes, and which we do humbly pray you would be pleaſed to move for that purpoſe, we being no wayes able to adde or alter any thing, in, or to them, being still ready to obey the Parliaments pleaſure, in whatſoever they ſhall determine upon them.</p>
+               <p>And for what is contained in the Reaſons mentioned in your Order, was delivered by us only to the Lord Major, Aldermen and Common-Councell of the City of <hi>London,</hi> as our ſenſe then; and why we refuſed to lend the <hi>15000<hi rend="sup">lb</hi>
+                  </hi> deſired upon credit of the Ordinance of the <hi>15<hi rend="sup">th</hi>
+                  </hi> of <hi>Auguſt</hi> laſt; againſt which we object nothing, but what ariſeth meerly out of the frame and conſtruction of the Ordinance it ſelf: and upon the Ordinance of the <hi>16<hi rend="sup">th</hi>
+                  </hi> of <hi>October, 1644.</hi> made for raiſing <hi>80000<hi rend="sup">lb</hi>
+                  </hi> for relief of the <hi>Britiſh</hi> Forces in <hi>Ireland,</hi> to which that other Ordinance of the <hi>15<hi rend="sup">th</hi>
+                  </hi> of <hi>Auguſt</hi> doth relate: and the Ordinance of the <hi>27<hi rend="sup">th</hi>
+                  </hi> of <hi>September, 1645.</hi> which Ordi<g ref="char:EOLhyphen"/>nances if you ſhall be pleaſed for to peruſe with the Reaſons, is all that we can ſay as to that particular; and whether ſubstantiall or not, are no more but our apprehenſions why we deſire to be excuſed in lending the Money.</p>
+               <p>And for ſo much in thoſe Reaſons as doth concerne M<hi>
+                     <hi rend="sup">r</hi> Davis</hi> and his Partners, their failings, deceits and frauds uſed in the matters of their contracts made with the State, which is all we intended more in thoſe Reaſons; it is all matter of Accompt, and examinable by the Committee of the Ac<g ref="char:EOLhyphen"/>compts of the Kingdom, and now depending before them, from whom no doubt but you may be fully ſatisfied in all things that concerneth that buſines; which their Certificate and Examinations delivered in to the Honourable
+<pb n="12" facs="tcp:113350:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:113350:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:113350:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:113350:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:113350:12"/> Houſe of Commons, and mentioned in your Order concerning him directly pointed at<g ref="char:punc">▪</g> the contracts, orders and proceedings of all which buſineſſe con<g ref="char:EOLhyphen"/>cerning M<hi>
+                     <hi rend="sup">r</hi> Davis</hi> and his partners, are remaining recorded with M<hi>
+                     <hi rend="sup">r</hi> Fr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt</hi> Secretary to the Honourable Committee of both Kingdoms, and not with us; from whom alſo you may at pleaſure receive all ſatisfaction in them that you can deſire.</p>
+               <p>And more then in theſe things we understand not at preſent, whereof you deſire to be ſatisfied; and for which we crave your pardon, if we have been too long in the relation, and to aſſure you there is nothing in which we will be wanting to ſerve you and the publike.</p>
+               <closer>
+                  <signed>Signed in the Name, and by Order of the Committee for Iriſh affairs at Grocers-Hall, by <hi>D A. WATKINS.</hi>
+                  </signed>
+                  <dateline>Grocers-Hall, <date>
+                        <hi>16<hi rend="sup">th</hi> Decem. 1645.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>TO THE Honourable Houſe of Commons in this preſent Parliament aſſembled, The Humble Petition of the Committee of Adventurers in <hi>London</hi> for Lands in <hi>Ireland,</hi> ſitting at Grocers-Hall.</head>
+               <opener>Shewing,</opener>
+               <p>THat your Petitioners are enformed, that the Right Honourable the Lord Major, Aldermen and Commons of the City of <hi>London</hi> in Common-Councell aſſembled, have preſented to this Honourable Aſſembly, certain Reaſons given in by your Petitioners to that Ho<g ref="char:EOLhyphen"/>nourable Court (upon conference with a Committee of them appointed to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat with your Petitioners) why they could not lend the 15000<hi rend="sup">lb</hi> deſired upon ſecurity of the Ordinance of the 15<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1645. for raiſing Moneys for the r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lief of <hi>Ireland<g ref="char:punc">▪</g>
+                  </hi> together with certain Propoſitions agreed upon by the Honourable Committee of Lords and Commons for Propoſi<g ref="char:EOLhyphen"/>tions for <hi>Ireland,</hi> and your Petitioners, and the Body of Adventurers, to be preſented to the Parliament, of diverſe wayes preſcribed for raiſing Monies <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that Service.</p>
+               <p>Wherein your Petitioners only intend two things, the raiſing Monies to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rry on that Warre for the future, by the Propoſitions, and the diſcovery of ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all groſſe failings, frauds and deceipts, by M<hi rend="sup">r</hi> 
+                  <hi>John Davis</hi> and his Part<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> in making Proviſions for <hi>Ireland,</hi> wherein your Petiti<gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> aim at <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but the good of the S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te, and that the Parliament may be truly in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed thereof.</p>
+               <pb n="17" facs="tcp:113350:12"/>
+               <p>And therefore they humbly pray, that this Honourable Aſſembly, will in the firſt place be pleaſed, to take the ſaid Propoſitions into conſideration, and debating them, reſolve upon them, what in your grave judgements you ſhall thinke fit; which having been debated and agreed upon by the Committees and body of Adventurers aforeſaid, do humbly conceive, they want only your Reſolutions upon them: And they are humble ſuitors yet further, that ſome Commiſſioners from this Honourable Houſe, and of ſuch others as you ſhall thinke fit, may be preſently ſent for the Provinces of <hi>Munſter</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>lſter,</hi> to order things there upon the place; and that howſoever ſome courſe may be preſently preſcribed for raiſing Monies to carry on that Warre this next Summer; which they the rather importune, for that they are certified from one of your Commiſſioners, at this time in the Province of <hi>
+                     <g ref="char:V">Ʋ</g>lster,</hi> that if 40000<hi rend="sup">lb</hi>, the moſt in Money, the reſt in Ammunition and Artillery, may be ſent them before <hi>March</hi> next, an Army of 10000 Horſe and Foot will be ready to take the field there by that time, and (under God) ſhall be able to give a good accompt of all that part of the Kingdom, before the next Sum<g ref="char:EOLhyphen"/>mer ended; and to uſe his own phraſe (make it as ſafe living in thoſe parts, as in any the Aſſociated Counties of <hi>England</hi>) preſſing for Money princi<g ref="char:EOLhyphen"/>pally in this Caſe, for that therewith they can buy as much Victuals for 6<hi rend="sup">s</hi> 8<hi rend="sup">d</hi>, or 7<hi rend="sup">s</hi>, as the Parliament now gives M<hi rend="sup">r</hi> 
+                  <hi>Davis</hi> 16<hi rend="sup">s</hi>; and Cloth for 8<hi rend="sup">s</hi> the yard, which is furniſhed to the Officers at 18<hi rend="sup">s</hi> 
+                  <hi>per</hi> yard, and ſo in other things.</p>
+               <p>And foraſmuch as all that your Petitioners have alledged againſt M<hi rend="sup">r</hi> 
+                  <hi>Da<g ref="char:EOLhyphen"/>vis</hi> and his Partners, is matter of Accompt, breach of Undertaking, and fraud and practice in deceiving the State, in thoſe things which have been committed to their truſt, and all which lies in examination before the Com<g ref="char:EOLhyphen"/>mittee of Accompts of the Kingdoms, and do conſiſt in many particulars; that therefore you will be pleaſed, for that part thereof alſo, to require the ſaid Committee of Accompts, ſpeedily to examine and certifie the ſame to this Honourable Aſſembly.</p>
+               <p>And foraſmuch as the ſaid M<hi rend="sup">r</hi> 
+                  <hi>Davis</hi> and his Partners, have already recei<g ref="char:EOLhyphen"/>ved above 40000<hi rend="sup">lb</hi> of the Monies ordered them for their ſatisfaction, which is a very competent Summe, to this time for what they have delivered; that you will therefore give order to the Treaſurers of Grocers-Hall, if you ſhall ſo thinke fit, that they do hereafter reſerve ſuch Monies in their hands, as ſhall come in upon thoſe Ordinances, out of which they ſhould be ſatisfied what is behinde, untill theſe matters ſhall be fully heard and determined, that ſo the Parliament may have <hi>in depoſito</hi> wherewith to be recompenced for theſe miſcarriages and loſſes, when they ſhall appear, and which will be a mean in ſuch caſe, to draw the ſame to a ſpeedy end.</p>
+               <pb n="18" facs="tcp:113350:13"/>
+               <p>And foraſmuch as S<hi rend="sup">r</hi> 
+                  <hi>John Clotworthy,</hi> Knight, one of the Members of this Honourable Aſſembly, hath received 24000<hi rend="sup">lb</hi> or thereabouts, of the States and adventurers Money, and is much doubted that he can give no good ac<g ref="char:EOLhyphen"/>compt thereof; and which matter alſo, as your Petitioners have heard, do lye before the ſaid Committee of Accompts examined: Therefore for the juſt repair and vindication of the Gentleman, and for ſatisfaction of your Petitioners, and of all the world, how he hath diſpoſed of the Monies, Goods and Proviſions he hath received for the Forces in <hi>Ireland.</hi>
+               </p>
+               <p>They alſo humbly pray, that this Honourable Houſe would be likewiſe pleaſed, to require the ſaid Committee of Accompts of the Kingdoms, to certifie this Honourable Aſſembly the true ſtate of his accompt, and whatſoever matters and things lyeth before them dependent thereupon, that ſo you may proceed to do therein alſo as in your grave wiſdoms you ſhall thinke fit:</p>
+               <closer>And they ſhall pray, <hi>&amp;c.</hi>
+               </closer>
+               <closer>
+                  <signed>
+                     <hi>Da. Watkins,</hi> by order of the Committee.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <head>Reaſons delivered by the Adventurers in <hi>London</hi> for Lands in <hi>Ireland,</hi> for to maintain the Equity of their Propoſitions, Preſented to the Honourable Houſes of PARLIAMENT, for the better carrying on the Warre in <hi>Ireland.</hi>
+            </head>
+            <p>THey did propound them, almoſt two years ſince, in more perillous times, when that Kingdom was even gaſping for life, and in Ceſſa<g ref="char:EOLhyphen"/>tion with the Rebels, all the parts of it but <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> and when this Kingdom was in a very ſad and calamitous condition, in great dan<g ref="char:EOLhyphen"/>ger to have been deſtroyed by a potent enemy, and with much labour work<g ref="char:EOLhyphen"/>ing out ſupplies for the ſupport of it ſelf at home, and which they have pur<g ref="char:EOLhyphen"/>ſued ever ſince, with many more then twenty Petitions and Remonſtrances to the Parliament and their Committees, to have gained conſideration, which the great affairs of this Kingdom hath ſtill prevented, till this time; the ſaid Committee of Grocers-Hall having procured much relief in the in<g ref="char:EOLhyphen"/>terim to the Souldiers in <hi>
+                  <g ref="char:V">Ʋ</g>lster,</hi> which hath kept them together, and ſince to the Souldiers in <hi>Munſter,</hi> that they have declared themſelves for the Parliament; or otherwiſe they have confeſſed, that whole Kingdome was in great danger to have been yeelded up and loſt; which proves the reality of the Committees affections, and that their labours have not been fruitleſſe, nor
+<pb n="19" facs="tcp:113350:13"/> to have been byaſſed to any other ends, then the meer good of the Kingdoms.</p>
+            <p>There is not any of the ſaid Propoſitions, which doth generally charge the people by Tax or Aſſeſſement, but are all in effect arbitrary and of benevo<g ref="char:EOLhyphen"/>lence, a matter conſiderable, to eaſe the Subject what poſſible may be in theſe times, when their eſtates are ſo much weakened and exhauſt, as that they are very hardly able to pay ſuch Taxes and Contributions as are charged upon them, meerly neceſſary for to ſupport the burthens of the Common-wealth at home, ſaving that one only Propoſition which is deſired to com<g ref="char:EOLhyphen"/>pell the ill affected, that have obſcured and eſtranged themſelves all this while from aſſiſting the Parliament and this Cauſe, with their purſes and perſons, having done very little, or not in proportion to their eſtates as o<g ref="char:EOLhyphen"/>thers, and whoſe greateſt injury in this conſtraint, will be but to compell them unto an act for their own advantage; and that they now joyne with the good party, to carry on the Warre there, in a time more neerer to the be<g ref="char:EOLhyphen"/>nefit to be received for their disburſements, and wherein they ſhall, with more viſible hopes, partake of that which hath been all this time preſerved to ſuch a day of good expectation, by thoſe that have made conſcience to ſave their Countrey from ruin, with the expence and hazard of their lives and fortunes.</p>
+            <p>They are all Propoſitions tending to the maintenance of that Warre, the more ſpeedy reducing of thoſe Rebels to their obedience, the reeſtabliſhment of that Government once again in peace and quiet, and the better peopling and civilizing of that Realm, for which all ſhould poſſibly contend, and lay down thoſe ways and means that have the greateſt likelihood and appearance to effect a good and ſpeedy plantation of that Kingdom, with a religious people, in the place and ſtead of that Idolatrous Nation the <hi>Iriſh</hi> Rebels.</p>
+            <p>For which purpoſe, if there may be raiſed a conſiderable revenue to the Crown, to ſupport its own burthen, though with ſome aſſiſtance and helpe from hence now in the beginning; if ſuch wayes and courſes may be taken, as may the ſooneſt bring all the three Kingdoms, all to be as one Nation and people, and may the ſpeedieſt ſecure it from danger of an enemy, is with<g ref="char:EOLhyphen"/>out all peradventure of the greateſt conſideration.</p>
+            <p>Which to effect and bring to paſſe, is by engaging all the three Kingdoms together by all poſſible wayes and means, and all the Proteſtant party in Chriſtendome in one common bond and union, that will ſubmit to our forme of government in Church, and the Civil State; and if the Parliament ſhould give thoſe Lands freely to men thus qualified and undertaking (alwayes re<g ref="char:EOLhyphen"/>ſerving ſuch a good revenue to the Crown thereout, as aforeſaid) muſt que<g ref="char:EOLhyphen"/>ſtionleſſe do this with the moſt ſpeed and ſecurity.</p>
+            <pb n="20" facs="tcp:113350:14"/>
+            <p>How can it be then reaſonably objected, againſt thoſe that have and ſhall not only adventure conſiderable ſummes of Money, to carry o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Wa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e there at preſent, but agree to ſecure great rents unto the Crown for their Lands for the future, to have whatſoever proportions of the Rebels eſtate<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they ſhall upon ſuch tearms acquire and undertake to plant?</p>
+            <p>Upon which grounds, will it not be very advantagious to the Common-wealth, if to condeſcend to all ſuch Propoſitions as ſhall thus do this wor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: As firſt, that the Adventurer, that brings in ready Money, have the priority to be ſatisfied; next, that the Souldier may be allowed all, or part of hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pay, and entertainment out of theſe Rebels Lands at leaſt; and next, thoſe P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>teſtants of other Nations, that will Adventure and ſet down with us upon theſe conditions, that thoſe poor Proteſtants of <hi>Ireland,</hi> who have been di<g ref="char:EOLhyphen"/>ſpoiled of their eſtates there by the Rebels, and many thouſands <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their lives, their heirs and aſſignes have not only reſtitution of what have been thus forcibly taken from them, but ſatisfaction for ſuch damages alſo as they have ſuſtained, out of the eſtates of thoſe Rebels by whom they have thus ſuf<g ref="char:EOLhyphen"/>fered, which would cauſe thouſands to returne, that otherwiſe will not; and if thoſe Merchants of <hi>London</hi> and elſe-where, that have loſt their debts by the Rebellion there, paying ſome Money more at preſent, may have a ſhare alſo of the Rebels Lands for all: And if thoſe Counties, Cities and Towns Corporate, which ſhall pay any Monies towards the ſupport of this Warre, hereafter may have proportions of Lands alſo aſſigned unto them for th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Monies they ſhall disburſe, the revenew thereof to be for maintenance of their common Charges, would not this, in all likelihood, ſuddenly plant the place, and make it become a flouriſhing Common-wealth?</p>
+            <p>Beſides that, by theſe means that Kingdom will be thus furniſhed with Free-holders for to put the Laws in execution, and for bringing of thoſe Re<g ref="char:EOLhyphen"/>bels unto condigne puniſhment, of which otherwiſe there will for a long time be a great want to carry on the Legall affairs of that Common-wealth; it may thus alſo be ſo ordered, that Thouſands of the poor Natives of that Land, may be ſoon brought to conformity in Religion and manners with us, and all their youth be tranſplanted hither from time to time, and here b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed up and educated in good Nurture, and others exchanged and ſent from <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their rooms and ſteads to inhabit there, and all maintained by the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd profits of thoſe Lands; and thus in a ſhort time, make that place to be as ci<g ref="char:EOLhyphen"/>vill and fruitfull every way as this our mother Kingdom.</p>
+            <p>And he that doth well underſtand that government, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt confeſſe, that the planting of that place heretofore by little and little, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of that Common-wealth, for <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they thus <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:113350:14"/> together with the Idolatrous Inhabitants of the Land, and by making mar<g ref="char:EOLhyphen"/>riages, and otherwiſe joyning with them, many of them have been ſuddenly perverted in their Religion, and ſcarce one of a Family hath continued Pro<g ref="char:EOLhyphen"/>teſtants to a ſecond Generation; and then it hath been obſerved, that ſuch Proſelytes once made, have proved the moſt deſpitefull and pernicious of all the reſt to a generall reformation.</p>
+            <p>The Governours alſo of that Realm, for the moſt part heretofore, having ſo great power put into their hands, have been ſo lifted and puffed up with the conceipt and opinion of their greatneſſe, that they have commonly for<g ref="char:EOLhyphen"/>gotten their errand, and for what end they were placed there; and have been miſled to all injuſtice and oppreſſion of the people, to make themſelves and their followers rich and honourable, out of the ruines and deſtruction of the ſubject, and therefore the government have been obſerved to be more pro<g ref="char:EOLhyphen"/>ſperous and happy, when it hath been by more Juſtices, then by any one De<g ref="char:EOLhyphen"/>puty, or Lord Lieutenant of the Kingdom.</p>
+            <p>They have therefore humbly offered their ſenſe and apprehenſion, that the Government there in the Parliaments power, be now rather ordered by Commiſſioners in the Provinces upon the place, then by any Lord Lieuten<g ref="char:EOLhyphen"/>ant or Deputy, not only for the Reaſons afore-ſaid, but in reſpect alſo, that the Metropolitan City of <hi>Dublin,</hi> the uſuall place of Reſidence and abode of all the Chief Governours of that Kingdom heretofore, is not at preſent un<g ref="char:EOLhyphen"/>der the Parliaments power, where the Supreme Courts of Law and equity of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Realm are uſually kept, and where all the Parliaments Rolls and other Records of that Kingdom are remaining and upon Record, by which that whole government have been ever ordered and carried on, and without which it is not poſſible for any Lord Lieutenant, Deputy or Chief Governour for to ex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rciſe that authority in its fullneſſe, and with ſuch proſperous ſucceſſe and effect as is heartily deſired, nor ſo to manage ſuch a power, as that he can equally and with juſtice, determine and decide ſuch controverſies and de<g ref="char:EOLhyphen"/>bates, as will aſſuredly ariſe in judgement before him there, for want of ſuch Records, and whereof if the Rebels ſhould by any ſtratagem or ſtrength of armes become Muſters and poſſeſſed, no doubt but whatſoever thereof doth make againſt them, would quickly be cancelled and defaced, and of what dan<g ref="char:EOLhyphen"/>gerous conſequence that muſt inevitably prove unto this Crown and State, may be eaſily underſtood; and therefore whiles there is hopes for to reduce or bring the ſame again under the Parliaments power, all wayes and means would be uſed to make that place ſecure the firſt; beſides that it ſtands ſi<g ref="char:EOLhyphen"/>tuate for correſpondence with <hi>England</hi> and the other parts of that King<g ref="char:EOLhyphen"/>dom, the moſt convenient, and between the other Provinces, that no Deputy
+<pb n="22" facs="tcp:113350:15"/> or theſe Governours, to be ſent into any other Province now in obedience to the Parliament, can poſſibly hold ſuch intelligence, and keep ſuch compli<g ref="char:EOLhyphen"/>ance with the other parts of that Realm, as is neceſſary to carry on ſuch a government; beſides that, ſo great a Miniſter of State muſt be maintained in a port and degree like that which he repreſents, or it will ſubject his perſon and authority unto contempt; and if it ſhall come ſhort of that Eminency ac<g ref="char:EOLhyphen"/>cuſtomed to thoſe that have ſwayed the Government before, it may be obſer<g ref="char:EOLhyphen"/>ved with diſadvantage and much detriment to the proceedings every way. Nor is it 40000<hi rend="sup">lb</hi>, as 'tis humbly conceived, will furniſh one out to ſuch an undertaking; which Money to be imployed for payment of the Souldier, will furniſh 10000 Horſe, and Foot into the Field there this next Summer, from out of the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lster,</hi> as is certified by the Commiſſioners from thence, with great expectation to reduce and ſettle all that part of the King<g ref="char:EOLhyphen"/>dom in quiet: beſides that, it is apprehended, that the Military Government in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> there, is by the Parliament already ſetled under the Command of his Excellency the Earl of <hi>Leven,</hi> where the Souldiers and Inhabitants are the moſt of them his Countrey men, and will undoubtedly be more ready and willing to fight under a Generall of their own Nation; and little elſe there is there to do for Civil affairs, which the Commiſſioners al<g ref="char:EOLhyphen"/>ready ſent, and more that may be ſent from hence by the Parliament, may not eaſily perform, and ſave all this vaſt charge of a Deputy into the bargain: And for <hi>Munſter,</hi> the Lord <hi>Inchiquin</hi> being made Lord Preſident of that Pro<g ref="char:EOLhyphen"/>vince by the Parliament already, in whoſe power both the Martiall and Civil Government being placed there, and he being a man, of whoſe fidelity the Parliament have had ſuch an approved aſſurance, if he ſhall have ſome Com<g ref="char:EOLhyphen"/>miſſioners alſo joyned with him, and ſent thither for carrying on the Warre there, will be abundantly ſufficient to anſwer whatſoever can be expected for managing the affairs in that Province, which of all other is a place the moſt conſiderable, and with all poſſible ſpeed for to be ſupplied, as not only being the beſt part of that Kingdom, and moſt advantagious for this every way, but is more open and liable to the invaſion of a forreign Enemy, and which will be the firſt part they will undoubtedly attempt; and thoſe ſupplies which the Pope hath lately ſent unto them of Money, Armes and Ammunition, with many other things of like conſideration, do cleerly manifeſt a confederation of the Romiſh Catholique party thorowout Chriſtendom to aſſiſt thoſe Re<g ref="char:EOLhyphen"/>bels, againſt which therefore now timely proviſion would be made while it is to day.</p>
+            <p>And as theſe were ſome motives in the generall, that induced the Adven<g ref="char:EOLhyphen"/>turers to disburſe their Monies for that ſervice, and ſo earneſtly for to contend
+<pb n="23" facs="tcp:113350:15"/> for the ſafety and preſervation of that Kingdom, ſo for the particular of their Propoſitions, they were carried on to propoſe them for ſome other reaſons alſo inducing them thereunto; as,</p>
+            <p>In the firſt place, to have a Confirmation of the Ordinance of the 14<hi rend="sup">th</hi> of <hi>July,</hi> 1643. for ſuch cauſe as in their reaſons herein aforeſaid is mentioned.</p>
+            <p>And do humbly propoſe the ſecond, as a thing of greateſt equity, that thoſe who have underwritten, and not paid in their Money, ſhould bring it in as o<g ref="char:EOLhyphen"/>thers, to helpe to carry on the Warre, and is but to turne that into an Ordi<g ref="char:EOLhyphen"/>nance for this purpoſe, which the Houſes of Parliament heretofore, after ma<g ref="char:EOLhyphen"/>ny debates, agreed to be juſt, and drew up into an Act of Parliament, and ſent unto his Majeſty for his Royall aſſent, which he refuſing, have not therefore taken away the juſtneſſe of the Law.</p>
+            <p>And do propoſe the third, as beneficiall to the Service, and in no ſort pre<g ref="char:EOLhyphen"/>judiciall unto any; for as it ſhall not loſe the firſt Subſcriber any thing, ſo it will bring in more Money and more Adventurers, both to helpe to carry on the worke, and to plant the Kingdom, when the Warre is done; and the more that are engaged in the undertaking, muſt of neceſſity be moſt advantagious to the cauſe in generall.</p>
+            <p>And do propoſe the fourth, as a great expedient in this affair, to reduce thoſe Rebels to their obedience the ſooner, for now to grant the Rebels Lands and Eſtates in theſe Cities and Towns mentioned in the Propoſition, upon condition to be preſently planted, will not only bring in a good people to dwell amongſt them, and Monies to helpe to maintain the Warre; but will exceedingly ſtrengthen the proceeding, and encourage the Souldier to have his Countrey men, and thoſe of his own Religion, in whom he may confide and truſt thus about him, and to whom he may retire for comfort and refreſhment, when he is wearied out with ſervice, but will ſupply unto them many wants alſo there at home, which now they cannot purchaſe, when they have where<g ref="char:EOLhyphen"/>withall ſo to do; it will alſo more fortifie thoſe parts, when every ſuch Planter, for his own ſecurity and the enjoyment of his purchaſe, will ſtore and ſupply himſelf with men, Armes and neceſſaries, for to maintain his poſſeſſion and inheritance.</p>
+            <p>And do propoſe the fift as moſt juſt and reaſonable, that the Committee of Grocers-hall, who have contracted thoſe debts, meerly for proviſions ſent thither for relief of the Souldier, ſhould be diſingaged thereof again by the Parliament, upon whoſe Commands they made the Proviſions, and they con<g ref="char:EOLhyphen"/>ceive it but juſt and reaſonable (under favour and correction) that thoſe who ſubſcribed to pay in Monies upon that Ordinance of the 14<hi rend="sup">th</hi> of <hi>July,</hi> 1643. upon which the Committee looked, as a ſecurity for the reimburſement and
+<pb n="24" facs="tcp:113350:16"/> repayment of theſe Monies, ſhould now therefore be compelled to pay in the ſame to ſatisfie thoſe debts.</p>
+            <p>And do propoſe the ſixt, as fit for conſideration, that ſuch Proviſions as have been made for <hi>Ireland,</hi> and ſuch Monies as have been raiſed for that Service, may not be diverted from that end for which it was originally intended; and that no private perſon may enjoy that to his own uſe, which was provided for the publike.</p>
+            <p>And do propoſe the ſeventh, as conducing more to the Service then any o<g ref="char:EOLhyphen"/>ther particular, for if we ſhall not have Shipping to lye upon theſe Coaſts continually, ſo much as may be to prevent the bringing in of Supplies unto the Rebels, they will be the more bold in the Rebellion, and enabled to op<g ref="char:EOLhyphen"/>poſe us.</p>
+            <p>And do propoſe the eight and ninth but as ſubſervient to the reſt, and very neceſſary to advance and borrow Monies for the Service upon all occaſions.</p>
+            <p>And do propoſe the tenth, as a thing ſo conſiderable, that to be granted would bring in much Monies, with the love and bounty of the people; would eaſe them from other Taxes and Aſſeſſments, and would in no ſort be burthen<g ref="char:EOLhyphen"/>ſome or grievous, and would be a foundation and way laid, to carry on a great part of the Warre there unto the end of it, without troubling the Par<g ref="char:EOLhyphen"/>liament and State upon every occaſion, to ſeek out and finde new wayes to raiſe Monies for that Service, and which many times comes with murmur and grudgings of the people; and will engage many more Adventurers to plant there, when the Warre ſhall be ended; and is but of the ſame nature Monethly, as the Weekly meal which was raiſed lately in <hi>London.</hi>
+            </p>
+            <p>And do informe the eleventh, that the Committee may be rightly under<g ref="char:EOLhyphen"/>ſtood, not to ſeek themſelves; and to ſhew, they have no by ends of their own in all this they offer to perform, but to act freely and with publike ſpirits, as only looking to advance the good cauſe in hand, and nothing elſe.</p>
+            <p>And do propoſe the twelfth, for ſuch reaſons as they have herein formerly declared; all which they humbly ſubmit to the conſideration of the Parlia<g ref="char:EOLhyphen"/>ment, and ſhall be well ſatisfied with whatſoever the Houſes ſhall be pleaſed to reſolve upon therein, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="25" facs="tcp:113350:16"/>
+            <head>Concerning the Goods ſent into <hi>Ireland,</hi> by M<hi rend="sup">r</hi> 
+               <hi>John Davis</hi> and his Partners.</head>
+            <p>
+               <hi>The Rates allowed</hi> M<hi rend="sup">r</hi> 
+               <hi>Davis and his Partners by Contract.</hi>
+            </p>
+            <p>
+               <hi>How theſe Goods were then offered to be delivered by the Committee by way of Con<g ref="char:EOLhyphen"/>tract.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>The Rates allowed</hi> M<hi rend="sup">r</hi> 
+                        <hi>Davis and his Partners by Contract.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="label">Demanded</cell>
+                     <cell role="label">
+                        <hi>How theſe Goods were then offered to be delivered by the Committee by way of Con<g ref="char:EOLhyphen"/>tract.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">lb s d</cell>
+                     <cell role="label">lb s d</cell>
+                     <cell> </cell>
+                     <cell role="label">lb s d</cell>
+                  </row>
+                  <row>
+                     <cell>Wheat <hi>per</hi> quarter.</cell>
+                     <cell>2. 4. 0.</cell>
+                     <cell>at firſt-2.4.0</cell>
+                     <cell>Wheat <hi>per</hi> quarter.</cell>
+                     <cell>2. 0. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Peaſe <hi>per</hi> quarter.</cell>
+                     <cell>2. 2. 0.</cell>
+                     <cell>at firſt-2.4.0</cell>
+                     <cell>Peaſe <hi>per</hi> quarter.</cell>
+                     <cell>2. 0. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Oatmeal <hi>per</hi> quarter.</cell>
+                     <cell>2. 10. 0</cell>
+                     <cell> </cell>
+                     <cell>Oatmeal <hi>per</hi> quarter.</cell>
+                     <cell>2. 8. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Butter <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 4.½</cell>
+                     <cell> </cell>
+                     <cell>Butter <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 4.½</cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 3.¼</cell>
+                     <cell> </cell>
+                     <cell>Cheeſe <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 3</cell>
+                  </row>
+                  <row>
+                     <cell>Musket and Bandal.</cell>
+                     <cell>0. 16. 0</cell>
+                     <cell> </cell>
+                     <cell>Musket and Bandal.</cell>
+                     <cell>0. 15. 6</cell>
+                  </row>
+                  <row>
+                     <cell>Engliſh powder <hi>per</hi> Barrell.</cell>
+                     <cell>4. 10. 0</cell>
+                     <cell> </cell>
+                     <cell>Engliſh powder <hi>per</hi> Barrell.</cell>
+                     <cell>4. 5. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Caſſocks and Breeches.</cell>
+                     <cell>0. 17. 0</cell>
+                     <cell> </cell>
+                     <cell>Caſſocks and Breeches.</cell>
+                     <cell>0. 16. 6</cell>
+                  </row>
+                  <row>
+                     <cell>Piſtols and Holſters.</cell>
+                     <cell>1. 15. 0</cell>
+                     <cell> </cell>
+                     <cell>Piſtols and Holſters.</cell>
+                     <cell>1. 13. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Shoes <hi>per</hi> pair.</cell>
+                     <cell>0. 2. 7</cell>
+                     <cell> </cell>
+                     <cell>Shoes <hi>per</hi> pair.</cell>
+                     <cell>0. 2. 7</cell>
+                  </row>
+                  <row>
+                     <cell>Swords.</cell>
+                     <cell>0. 5. 6</cell>
+                     <cell> </cell>
+                     <cell>Swords.</cell>
+                     <cell>0. 5. 6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And a Peny in the Shilling profit he demanded for all Clothes and Goods he furniſhed out of theſe particulars.</p>
+            <p>
+               <hi>How theſe Goods might have been bought by the Committee at Grocers-Hall for the State, without a bargain a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> four Moneths, and ſix Mo<g ref="char:EOLhyphen"/>neths, to have been paid out of the Collections for</hi> Ireland, <hi>as they had come in, which was the beſt ſecurity he gave to thoſe from whom he bought the Goods.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">lb s d</cell>
+                     <cell> </cell>
+                     <cell role="label">lb s d</cell>
+                  </row>
+                  <row>
+                     <cell>Wheate <hi>per</hi> quarter.</cell>
+                     <cell>1. 2. 0</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Peaſe <hi>per</hi> quarter.</cell>
+                     <cell>1. 4. 0</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Oatmeal <hi>per</hi> quarter.</cell>
+                     <cell>1. 10. 0.</cell>
+                     <cell>other ſome,</cell>
+                     <cell>1. 6. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Butter <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 3.½</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cheeſe <hi>per</hi> pound.</cell>
+                     <cell>0. 0. 1.⅓</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Muskets and Bandaliers.</cell>
+                     <cell>0. 12. 10.</cell>
+                     <cell>Now for,</cell>
+                     <cell>0. 11. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>Engliſh powder <hi>per</hi> Barrell</cell>
+                     <cell>4. 0. 0</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Caſſocks and Breeches, as good as he delivered ſome.</cell>
+                     <cell>0. 10. 0.</cell>
+                     <cell>and under.</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="26" facs="tcp:113350:17"/>
+                  <row>
+                     <cell>Piſtols and Holſt. then</cell>
+                     <cell>1. 8. 0.</cell>
+                     <cell>now</cell>
+                     <cell>1. 1. 0</cell>
+                  </row>
+                  <row>
+                     <cell>Shoes <hi>per</hi> pair.</cell>
+                     <cell>0. 2. 4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Swords, as good he delivered ſome of them.</cell>
+                     <cell>0. 2. 6.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>It will be proved further, by Certificate from</hi> Ulſter, <hi>where he delivered theſe Goods;</hi>
+            </p>
+            <p>That ſo much meal will be bought there upon the place, for 7<hi rend="sup">s</hi>. 6<hi rend="sup">d</hi>. for which the Parliament paye here 16s.</p>
+            <p>Wheat may be bought there, for halfe the price is paid for it here, and ſave all Charges of Fraight, adventure and otherwiſe.</p>
+            <p>That Oatmeal may be bought at <hi>Leverpool</hi> for 6. 8<hi rend="sup">d</hi>. ſo much, for which the Parliament payes 16<hi rend="sup">•</hi>.</p>
+            <p>That in 200 Barrels of Wheat which he ſent, 40 quarters was wanting.</p>
+            <p>That the Cloth which was ſent thither, and furniſhed for the Officers of the Army at 18<hi rend="sup">s</hi>. <hi>per</hi> yard, was dear at 8<hi rend="sup">s</hi>. <hi>per</hi> yard.</p>
+            <p>That the Cloathes which arrived there, were found to be very Courſe ſhrinking Cloth, and moſt of the Sutes too little and unſerviceable.</p>
+            <p>That the Butter and Cheeſe which was ſent, was not worth a peny a pound one with another.</p>
+            <p>That the Officers ſeeing themſelves ſo abuſed, deſire neither Victuals or Cloaths may be ſent them, but Money, and they will buy them for halfe the price.</p>
+            <p>That if 40000<hi rend="sup">lb</hi> in Money, Ammunition, and ſome Artillery were furni<g ref="char:EOLhyphen"/>ſhed in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> to be there by <hi>March,</hi> they write from thence, they would carry 10000 Horſe and Foot into the field out of thoſe parts, and be able to give a good accompt of the Service, and make it as ſafe living in thoſe parts of that Kingdom, as in any of the Aſſociated Counties of <hi>England.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
